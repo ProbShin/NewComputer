@@ -11,3 +11,6 @@ Maven home: ...
 Java version: 19.0.2, ...
 
 ```
+
+* sublime3
+* IntelliJ IDEA
